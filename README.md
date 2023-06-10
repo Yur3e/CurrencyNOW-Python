@@ -2,7 +2,7 @@
 
 Este é um aplicativo de conversão de moedas construído com o PySimpleGUI. Ele permite que os usuários convertam valores de uma moeda para outra com base nas taxas de câmbio obtidas de uma API.
 
-![CurrencyNowpython](https://github.com/Yur3e/CurrencyNOW-Python/assets/88630655/96135c97-5c40-4ed5-80c2-ca01402bc2c8)
+![CurrencyNOW](https://github.com/Yur3e/CurrencyNOW/assets/88630655/9cdc1379-3a54-4201-8a05-413bc8179c54)
 
 
 ### Funcionalidades
